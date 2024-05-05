@@ -2,7 +2,7 @@
 
 ## Sobre mim
 🎓 Eu sou formado em Análise e Desenvolvimento de Sistemas com Especialização em Ciências de Dados e Inteligência Analítica.  
-🌱 Atualmente, estou me aprofundando em tecnologias de backend e práticas de DevOps, explorando ferramentas modernas e métodos para otimizar o desenvolvimento e a operação de aplicações escaláveis.  
+🌱 Atualmente, estou me aprofundando em Node.JS e Spring Boot e práticas de DevOps, explorando ferramentas modernas e métodos para otimizar o desenvolvimento e a operação de aplicações escaláveis.  
 👯 Estou procurando colaborar em projetos que utilizem tecnologias como Flutter para desenvolvimento de aplicativos móveis, Node.js para criação de serviços back-end escaláveis e Spring Boot para desenvolvimento de aplicações robustas de microserviços. Estou especialmente interessado em projetos que integrem essas plataformas para criar soluções inovadoras e eficientes.  
 💬 Pergunte-me sobre a construção de APIs escaláveis com Node.js, especialmente sobre como utilizar o modelo de I/O não bloqueante do Node.js para lidar com milhares de conexões simultâneas de forma eficiente. Estou também bastante envolvido com frameworks como Express e NestJS para otimizar a criação de aplicações back-end.  
 ⚡ Curiosidade: Sou apaixonado por Jiu-Jitsu e pratico regularmente como uma forma de manter a mente e o corpo saudáveis.
